@@ -31,7 +31,7 @@ text-align: center;
 
 h1 
 {
-color: orange;
+color: yellow;
 font-size: 36px;
 text-align: center;
 }
@@ -39,7 +39,7 @@ text-align: center;
 ol 
 {
 font-size: 20px;
-background-color: #FFF3B0;
-padding: 10px;
+background-color: #256A80;
+padding: 50px;
 border-radius: 10px;
 }
