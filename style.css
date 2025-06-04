@@ -18,7 +18,7 @@ text-align: left;
 body 
 {
 background-color: #25CED1;
-font-family: Arial, sans-serif;
+font-family: Helvetica, sans-serif;
 font-size: 18px;
 }
 
@@ -31,7 +31,7 @@ text-align: center;
 
 h1 
 {
-color: darkorange;
+color: orange;
 font-size: 36px;
 text-align: center;
 }
